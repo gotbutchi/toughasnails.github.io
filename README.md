@@ -10,12 +10,14 @@ drawn from the same distribution as the training data, or that the answer comes 
 of possible answers known in advance.
 
 In general, we need to solve these two problems:
-• **estimation**: When we have data that are noisy reflections of some underlying quan-
+
+  • **estimation**: When we have data that are noisy reflections of some underlying quan-
 tity of interest, we have to aggregate the data and make estimates or predictions
 about the quantity. How do we deal with the fact that, for example, the same treat-
 ment may end up with different results on different trials? How can we predict how
 well an estimate may compare to future results?
-• **generalization**: How can we predict results of a situation or experiment that we have
+
+  • **generalization**: How can we predict results of a situation or experiment that we have
 never encountered before in our data set?
 
 We can describe problems and their solutions using six characteristics, three of which
