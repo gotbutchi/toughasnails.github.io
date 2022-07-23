@@ -41,4 +41,4 @@ and/or to make predictions?
 Without making some assumptions about the nature of the process generating the data, we
 cannot perform generalization.
 
-MIT 6.036
+MITx 6.86x
