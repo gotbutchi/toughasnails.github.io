@@ -1,5 +1,8 @@
 # toughasnails.github.io
 Review Machine Learning basic concepts.
+[![MITx: Statistics and Data Science MicroMasters] (https://img.shields.io/badge/MITx-Statistics%20and%20Data%20Science%20MicroMasters-blue)]
+Link:[ https://learning.edx.org/course/course-v1:MITx+6.86x+3T2021/home](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
+
 
 The main focus of machine learning is *making decisions or predictions based on data*.
 The conceptual basis of learning from data is the problem of *induction*: Why do we think
